@@ -1,0 +1,8 @@
+button{
+    border-radius: 10px; 
+}
+.dotted{border-style: dotted;}
+.class1{
+    color: red;
+    font: 2px italic;
+}
